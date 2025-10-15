@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="1" TagName="vitamins-and-minerals" Count="52" ExcerptPostId="768" WikiPostId="767" />
+  <row Id="2" TagName="diet" Count="16" ExcerptPostId="504" WikiPostId="503" />
+  <row Id="3" TagName="dairy-products" Count="18" ExcerptPostId="318" WikiPostId="317" />
+  <row Id="5" TagName="veganism" Count="343" ExcerptPostId="272" WikiPostId="271" />
+  <row Id="7" TagName="pescetarianism" Count="5" ExcerptPostId="232" WikiPostId="231" />
+  <row Id="9" TagName="agriculture" Count="11" />
+  <row Id="11" TagName="nutritional-deficiency" Count="12" />
+  <row Id="12" TagName="protein" Count="45" ExcerptPostId="478" WikiPostId="477" />
+  <row Id="14" TagName="nutrition" Count="95" ExcerptPostId="404" WikiPostId="403" />
+  <row Id="15" TagName="children" Count="8" ExcerptPostId="2419" WikiPostId="2418" />
+  <row Id="17" TagName="environment" Count="23" ExcerptPostId="1513" WikiPostId="1512" />
+  <row Id="18" TagName="health" Count="112" ExcerptPostId="729" WikiPostId="728" />
+  <row Id="19" TagName="cooking" Count="45" ExcerptPostId="480" WikiPostId="479" />
+  <row Id="20" TagName="substitutes" Count="38" ExcerptPostId="470" WikiPostId="469" />
+  <row Id="21" TagName="meat-substitutes" Count="23" ExcerptPostId="472" WikiPostId="471" />
+  <row Id="24" TagName="transitioning-diets" Count="15" ExcerptPostId="911" WikiPostId="910" />
+  <row Id="26" TagName="milk" Count="10" ExcerptPostId="463" WikiPostId="462" />
+  <row Id="28" TagName="restaurant" Count="16" ExcerptPostId="2417" WikiPostId="2416" />
+  <row Id="29" TagName="traveling" Count="4" />
+  <row Id="30" TagName="philosophy" Count="17" />
+  <row Id="31" TagName="ethics" Count="44" ExcerptPostId="514" WikiPostId="513" />
+  <row Id="33" TagName="down" Count="2" ExcerptPostId="2384" WikiPostId="2383" />
+  <row Id="34" TagName="leather" Count="12" />
+  <row Id="36" TagName="soy" Count="15" ExcerptPostId="1387" WikiPostId="1386" />
+  <row Id="38" TagName="religion" Count="3" />
+  <row Id="39" TagName="food" Count="65" ExcerptPostId="101" WikiPostId="100" />
+  <row Id="40" TagName="fruitarianism" Count="8" ExcerptPostId="484" WikiPostId="483" />
+  <row Id="44" TagName="medicine" Count="11" />
+  <row Id="45" TagName="raw" Count="8" ExcerptPostId="511" WikiPostId="510" />
+  <row Id="48" TagName="global-warming" Count="5" />
+  <row Id="49" TagName="fruits" Count="9" />
+  <row Id="51" TagName="calcium" Count="4" />
+  <row Id="52" TagName="eggs" Count="9" ExcerptPostId="1507" WikiPostId="1506" />
+  <row Id="59" TagName="sports" Count="12" ExcerptPostId="2274" WikiPostId="2273" />
+  <row Id="60" TagName="yeast" Count="5" />
+  <row Id="61" TagName="society" Count="5" ExcerptPostId="238" WikiPostId="237" />
+  <row Id="64" TagName="oceans" Count="4" />
+  <row Id="65" TagName="pets" Count="9" ExcerptPostId="2421" WikiPostId="2420" />
+  <row Id="67" TagName="b12" Count="29" ExcerptPostId="398" WikiPostId="397" />
+  <row Id="72" TagName="plant-based" Count="10" ExcerptPostId="764" WikiPostId="763" />
+  <row Id="74" TagName="pregnancy" Count="5" ExcerptPostId="1521" WikiPostId="1520" />
+  <row Id="78" TagName="public-health" Count="5" />
+  <row Id="81" TagName="commercial-farming" Count="31" ExcerptPostId="941" WikiPostId="940" />
+  <row Id="83" TagName="subsistence-farming" Count="4" ExcerptPostId="943" WikiPostId="942" />
+  <row Id="84" TagName="animal-experimentation" Count="5" ExcerptPostId="779" WikiPostId="778" />
+  <row Id="93" TagName="history" Count="10" />
+  <row Id="94" TagName="terminology" Count="11" ExcerptPostId="752" WikiPostId="751" />
+  <row Id="103" TagName="shopping" Count="8" ExcerptPostId="727" WikiPostId="726" />
+  <row Id="105" TagName="outreach" Count="46" ExcerptPostId="348" WikiPostId="347" />
+  <row Id="107" TagName="labeling" Count="21" ExcerptPostId="1518" WikiPostId="1517" />
+  <row Id="108" TagName="biology" Count="5" />
+  <row Id="109" TagName="wool" Count="6" />
+  <row Id="111" TagName="psychology" Count="9" />
+  <row Id="121" TagName="cholesterol" Count="6" />
+  <row Id="123" TagName="research" Count="5" ExcerptPostId="741" WikiPostId="740" />
+  <row Id="126" TagName="culture" Count="4" ExcerptPostId="500" WikiPostId="499" />
+  <row Id="127" TagName="travel" Count="11" />
+  <row Id="130" TagName="bees" Count="8" ExcerptPostId="1515" WikiPostId="1514" />
+  <row Id="131" TagName="honey" Count="7" ExcerptPostId="465" WikiPostId="464" />
+  <row Id="132" TagName="animal-welfare" Count="31" ExcerptPostId="866" WikiPostId="865" />
+  <row Id="143" TagName="documentaries" Count="3" />
+  <row Id="144" TagName="livestock-industry" Count="33" ExcerptPostId="1563" WikiPostId="1562" />
+  <row Id="149" TagName="economics" Count="13" />
+  <row Id="151" TagName="aging" Count="3" />
+  <row Id="152" TagName="statistics" Count="16" ExcerptPostId="538" WikiPostId="537" />
+  <row Id="158" TagName="hypervitaminosis" Count="3" ExcerptPostId="766" WikiPostId="765" />
+  <row Id="167" TagName="animal-by-products" Count="5" />
+  <row Id="171" TagName="fertilizer" Count="3" />
+  <row Id="174" TagName="fabric" Count="4" />
+  <row Id="175" TagName="living-with-omnivores" Count="16" ExcerptPostId="694" WikiPostId="693" />
+  <row Id="178" TagName="animal-suffering" Count="15" />
+  <row Id="181" TagName="sustainability" Count="5" />
+  <row Id="184" TagName="vegetarian-diet" Count="39" ExcerptPostId="1488" WikiPostId="1487" />
+  <row Id="190" TagName="animal-rights" Count="6" />
+  <row Id="191" TagName="science" Count="3" ExcerptPostId="743" WikiPostId="742" />
+  <row Id="192" TagName="clothing" Count="14" ExcerptPostId="1486" WikiPostId="1485" />
+  <row Id="193" TagName="scientific-studies" Count="22" ExcerptPostId="786" WikiPostId="785" />
+  <row Id="195" TagName="probiotics" Count="3" ExcerptPostId="2441" WikiPostId="2440" />
+  <row Id="196" TagName="dairy-substitutes" Count="44" ExcerptPostId="1385" WikiPostId="1384" />
+  <row Id="199" TagName="uk" Count="11" ExcerptPostId="945" WikiPostId="944" />
+  <row Id="202" TagName="cosmetics" Count="7" />
+  <row Id="206" TagName="recipe-request" Count="33" ExcerptPostId="1021" WikiPostId="1020" />
+  <row Id="213" TagName="lacto-vegetarianism" Count="17" ExcerptPostId="1553" WikiPostId="1552" />
+  <row Id="216" TagName="food-additives" Count="3" />
+  <row Id="218" TagName="fats" Count="15" />
+  <row Id="220" TagName="zinc" Count="2" />
+  <row Id="228" TagName="seeds" Count="4" />
+  <row Id="230" TagName="supplements" Count="26" ExcerptPostId="1505" WikiPostId="1504" />
+  <row Id="231" TagName="egg-substitutes" Count="14" ExcerptPostId="1509" WikiPostId="1508" />
+  <row Id="233" TagName="is-it-vegan" Count="84" ExcerptPostId="1490" WikiPostId="1489" />
+  <row Id="234" TagName="iron" Count="5" />
+  <row Id="235" TagName="vitamin-c" Count="2" />
+  <row Id="237" TagName="vitamin-d" Count="3" />
+  <row Id="239" TagName="canada" Count="6" />
+  <row Id="240" TagName="fitness" Count="4" />
+  <row Id="241" TagName="weight-management" Count="5" />
+  <row Id="244" TagName="entomophagy" Count="5" ExcerptPostId="1535" WikiPostId="1534" />
+  <row Id="245" TagName="gelatin" Count="8" />
+  <row Id="248" TagName="omnivorous-diet" Count="5" />
+  <row Id="249" TagName="is-it-vegetarian" Count="20" ExcerptPostId="2415" WikiPostId="2414" />
+  <row Id="250" TagName="beans" Count="8" />
+  <row Id="251" TagName="vegetables" Count="12" />
+  <row Id="252" TagName="tofu" Count="3" />
+  <row Id="253" TagName="lacto-ovo-vegetarianism" Count="24" ExcerptPostId="1547" WikiPostId="1546" />
+  <row Id="255" TagName="legislation" Count="9" />
+  <row Id="256" TagName="leafy-greens" Count="2" />
+  <row Id="258" TagName="eu" Count="3" ExcerptPostId="2664" WikiPostId="2663" />
+  <row Id="260" TagName="resources" Count="10" ExcerptPostId="1716" WikiPostId="1715" />
+  <row Id="262" TagName="cultured-meat" Count="4" ExcerptPostId="1893" WikiPostId="1892" />
+  <row Id="263" TagName="therapeutic-diet" Count="8" ExcerptPostId="1909" WikiPostId="1908" />
+  <row Id="265" TagName="rawfood-diet" Count="6" />
+  <row Id="267" TagName="trekking" Count="2" />
+  <row Id="270" TagName="vegan-gardening" Count="2" ExcerptPostId="2413" WikiPostId="2412" />
+  <row Id="271" TagName="pest-control" Count="3" />
+  <row Id="274" TagName="budget" Count="1" ExcerptPostId="2582" WikiPostId="2581" />
+  <row Id="275" TagName="mental-health" Count="1" ExcerptPostId="2585" WikiPostId="2584" />
+  <row Id="278" TagName="usa" Count="1" ExcerptPostId="2666" WikiPostId="2665" />
+</tags>
