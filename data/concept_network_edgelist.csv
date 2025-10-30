@@ -1,0 +1,154 @@
+source,target,weight
+AI,ethics,14
+AI,progress,4
+AI,change,6
+AI,technology,16
+AI,knowledge,6
+AI,social networks,4
+AI,privacy,2
+AI,analysis,6
+AI,optimisation,4
+AI,context,2
+AI,culture,2
+AI,empirical data,6
+AI,macro-micro,2
+AI,development,4
+AI,truth,2
+AI,policy,2
+AI,structure,2
+analysis,optimisation,4
+analysis,context,6
+analysis,empirical data,10
+analysis,ethics,4
+analysis,truth,4
+analysis,technology,6
+analysis,perspective,6
+analysis,theory,2
+analysis,culture,2
+analysis,macro-micro,4
+analysis,social networks,2
+analysis,policy,2
+context,personal,2
+context,empirical data,6
+context,social networks,4
+context,perspective,4
+context,social norms,2
+context,community,4
+context,identity,2
+context,theory,4
+context,change,2
+context,macro-micro,2
+context,race-ethnicity,2
+context,culture,2
+context,individual,2
+context,truth,2
+empirical data,personal,2
+empirical data,ethics,2
+empirical data,truth,6
+empirical data,technology,6
+empirical data,theory,2
+empirical data,knowledge,2
+empirical data,perspective,4
+empirical data,macro-micro,4
+empirical data,development,2
+empirical data,social networks,4
+empirical data,progress,2
+empirical data,community,2
+empirical data,optimisation,2
+empirical data,race-ethnicity,2
+ethics,change,4
+ethics,technology,4
+ethics,social norms,2
+ethics,knowledge,4
+ethics,policy,4
+ethics,theory,2
+ethics,development,2
+ethics,truth,2
+ethics,inequality,4
+ethics,power,2
+ethics,justice,2
+ethics,community,2
+ethics,structure,2
+personal,social networks,2
+progress,change,2
+progress,inequality,2
+progress,social norms,2
+progress,truth,2
+progress,development,2
+social networks,culture,2
+social networks,technology,4
+social networks,community,4
+social networks,structure,4
+social networks,truth,2
+social networks,collective,2
+social networks,macro-micro,2
+change,culture,2
+change,inequality,2
+change,community,8
+change,perspective,2
+change,macro-micro,6
+change,class,4
+change,knowledge,2
+change,race-ethnicity,2
+change,development,2
+change,policy,2
+community,culture,4
+community,social norms,2
+community,inequality,4
+community,perspective,2
+community,macro-micro,6
+community,structure,2
+community,identity,2
+community,class,2
+community,collective,4
+community,race-ethnicity,2
+culture,social norms,2
+culture,inequality,2
+culture,perspective,2
+culture,individual,2
+freedom,truth,2
+freedom,identity,2
+freedom,knowledge,2
+freedom,technology,2
+identity,theory,2
+identity,power,2
+identity,structure,2
+identity,technology,2
+identity,knowledge,2
+perspective,knowledge,2
+perspective,policy,2
+perspective,macro-micro,2
+perspective,individual,2
+social norms,gender,2
+social norms,inequality,2
+social norms,race-ethnicity,2
+technology,knowledge,4
+technology,privacy,2
+technology,power,2
+technology,structure,2
+technology,macro-micro,2
+technology,development,2
+technology,truth,2
+truth,knowledge,4
+truth,theory,2
+knowledge,theory,8
+knowledge,structure,2
+gender,inequality,2
+inequality,race-ethnicity,4
+inequality,theory,2
+inequality,macro-micro,2
+inequality,class,2
+inequality,policy,2
+inequality,justice,2
+race-ethnicity,class,2
+race-ethnicity,collective,2
+privacy,policy,2
+theory,power,2
+theory,structure,4
+theory,macro-micro,2
+macro-micro,collective,2
+macro-micro,power,2
+class,power,2
+class,collective,2
+structure,individual,2
+individual,user experience,2

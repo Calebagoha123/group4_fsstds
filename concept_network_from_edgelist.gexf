@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-10-30">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="AI" label="AI" />
+      <node id="ethics" label="ethics" />
+      <node id="progress" label="progress" />
+      <node id="change" label="change" />
+      <node id="technology" label="technology" />
+      <node id="knowledge" label="knowledge" />
+      <node id="social networks" label="social networks" />
+      <node id="privacy" label="privacy" />
+      <node id="analysis" label="analysis" />
+      <node id="optimisation" label="optimisation" />
+      <node id="context" label="context" />
+      <node id="culture" label="culture" />
+      <node id="empirical data" label="empirical data" />
+      <node id="macro-micro" label="macro-micro" />
+      <node id="development" label="development" />
+      <node id="truth" label="truth" />
+      <node id="policy" label="policy" />
+      <node id="structure" label="structure" />
+      <node id="perspective" label="perspective" />
+      <node id="theory" label="theory" />
+      <node id="personal" label="personal" />
+      <node id="social norms" label="social norms" />
+      <node id="community" label="community" />
+      <node id="identity" label="identity" />
+      <node id="race-ethnicity" label="race-ethnicity" />
+      <node id="individual" label="individual" />
+      <node id="inequality" label="inequality" />
+      <node id="power" label="power" />
+      <node id="justice" label="justice" />
+      <node id="collective" label="collective" />
+      <node id="class" label="class" />
+      <node id="freedom" label="freedom" />
+      <node id="gender" label="gender" />
+      <node id="user experience" label="user experience" />
+    </nodes>
+    <edges>
+      <edge source="AI" target="ethics" id="0" weight="14" />
+      <edge source="AI" target="progress" id="1" weight="4" />
+      <edge source="AI" target="change" id="2" weight="6" />
+      <edge source="AI" target="technology" id="3" weight="16" />
+      <edge source="AI" target="knowledge" id="4" weight="6" />
+      <edge source="AI" target="social networks" id="5" weight="4" />
+      <edge source="AI" target="privacy" id="6" weight="2" />
+      <edge source="AI" target="analysis" id="7" weight="6" />
+      <edge source="AI" target="optimisation" id="8" weight="4" />
+      <edge source="AI" target="context" id="9" weight="2" />
+      <edge source="AI" target="culture" id="10" weight="2" />
+      <edge source="AI" target="empirical data" id="11" weight="6" />
+      <edge source="AI" target="macro-micro" id="12" weight="2" />
+      <edge source="AI" target="development" id="13" weight="4" />
+      <edge source="AI" target="truth" id="14" weight="2" />
+      <edge source="AI" target="policy" id="15" weight="2" />
+      <edge source="AI" target="structure" id="16" weight="2" />
+      <edge source="ethics" target="analysis" id="17" weight="4" />
+      <edge source="ethics" target="empirical data" id="18" weight="2" />
+      <edge source="ethics" target="change" id="19" weight="4" />
+      <edge source="ethics" target="technology" id="20" weight="4" />
+      <edge source="ethics" target="social norms" id="21" weight="2" />
+      <edge source="ethics" target="knowledge" id="22" weight="4" />
+      <edge source="ethics" target="policy" id="23" weight="4" />
+      <edge source="ethics" target="theory" id="24" weight="2" />
+      <edge source="ethics" target="development" id="25" weight="2" />
+      <edge source="ethics" target="truth" id="26" weight="2" />
+      <edge source="ethics" target="inequality" id="27" weight="4" />
+      <edge source="ethics" target="power" id="28" weight="2" />
+      <edge source="ethics" target="justice" id="29" weight="2" />
+      <edge source="ethics" target="community" id="30" weight="2" />
+      <edge source="ethics" target="structure" id="31" weight="2" />
+      <edge source="progress" target="empirical data" id="32" weight="2" />
+      <edge source="progress" target="change" id="33" weight="2" />
+      <edge source="progress" target="inequality" id="34" weight="2" />
+      <edge source="progress" target="social norms" id="35" weight="2" />
+      <edge source="progress" target="truth" id="36" weight="2" />
+      <edge source="progress" target="development" id="37" weight="2" />
+      <edge source="change" target="context" id="38" weight="2" />
+      <edge source="change" target="culture" id="39" weight="2" />
+      <edge source="change" target="inequality" id="40" weight="2" />
+      <edge source="change" target="community" id="41" weight="8" />
+      <edge source="change" target="perspective" id="42" weight="2" />
+      <edge source="change" target="macro-micro" id="43" weight="6" />
+      <edge source="change" target="class" id="44" weight="4" />
+      <edge source="change" target="knowledge" id="45" weight="2" />
+      <edge source="change" target="race-ethnicity" id="46" weight="2" />
+      <edge source="change" target="development" id="47" weight="2" />
+      <edge source="change" target="policy" id="48" weight="2" />
+      <edge source="technology" target="analysis" id="49" weight="6" />
+      <edge source="technology" target="empirical data" id="50" weight="6" />
+      <edge source="technology" target="social networks" id="51" weight="4" />
+      <edge source="technology" target="freedom" id="52" weight="2" />
+      <edge source="technology" target="identity" id="53" weight="2" />
+      <edge source="technology" target="knowledge" id="54" weight="4" />
+      <edge source="technology" target="privacy" id="55" weight="2" />
+      <edge source="technology" target="power" id="56" weight="2" />
+      <edge source="technology" target="structure" id="57" weight="2" />
+      <edge source="technology" target="macro-micro" id="58" weight="2" />
+      <edge source="technology" target="development" id="59" weight="2" />
+      <edge source="technology" target="truth" id="60" weight="2" />
+      <edge source="knowledge" target="empirical data" id="61" weight="2" />
+      <edge source="knowledge" target="freedom" id="62" weight="2" />
+      <edge source="knowledge" target="identity" id="63" weight="2" />
+      <edge source="knowledge" target="perspective" id="64" weight="2" />
+      <edge source="knowledge" target="truth" id="65" weight="4" />
+      <edge source="knowledge" target="theory" id="66" weight="8" />
+      <edge source="knowledge" target="structure" id="67" weight="2" />
+      <edge source="social networks" target="analysis" id="68" weight="2" />
+      <edge source="social networks" target="context" id="69" weight="4" />
+      <edge source="social networks" target="empirical data" id="70" weight="4" />
+      <edge source="social networks" target="personal" id="71" weight="2" />
+      <edge source="social networks" target="culture" id="72" weight="2" />
+      <edge source="social networks" target="community" id="73" weight="4" />
+      <edge source="social networks" target="structure" id="74" weight="4" />
+      <edge source="social networks" target="truth" id="75" weight="2" />
+      <edge source="social networks" target="collective" id="76" weight="2" />
+      <edge source="social networks" target="macro-micro" id="77" weight="2" />
+      <edge source="privacy" target="policy" id="78" weight="2" />
+      <edge source="analysis" target="optimisation" id="79" weight="4" />
+      <edge source="analysis" target="context" id="80" weight="6" />
+      <edge source="analysis" target="empirical data" id="81" weight="10" />
+      <edge source="analysis" target="truth" id="82" weight="4" />
+      <edge source="analysis" target="perspective" id="83" weight="6" />
+      <edge source="analysis" target="theory" id="84" weight="2" />
+      <edge source="analysis" target="culture" id="85" weight="2" />
+      <edge source="analysis" target="macro-micro" id="86" weight="4" />
+      <edge source="analysis" target="policy" id="87" weight="2" />
+      <edge source="optimisation" target="empirical data" id="88" weight="2" />
+      <edge source="context" target="personal" id="89" weight="2" />
+      <edge source="context" target="empirical data" id="90" weight="6" />
+      <edge source="context" target="perspective" id="91" weight="4" />
+      <edge source="context" target="social norms" id="92" weight="2" />
+      <edge source="context" target="community" id="93" weight="4" />
+      <edge source="context" target="identity" id="94" weight="2" />
+      <edge source="context" target="theory" id="95" weight="4" />
+      <edge source="context" target="macro-micro" id="96" weight="2" />
+      <edge source="context" target="race-ethnicity" id="97" weight="2" />
+      <edge source="context" target="culture" id="98" weight="2" />
+      <edge source="context" target="individual" id="99" weight="2" />
+      <edge source="context" target="truth" id="100" weight="2" />
+      <edge source="culture" target="community" id="101" weight="4" />
+      <edge source="culture" target="social norms" id="102" weight="2" />
+      <edge source="culture" target="inequality" id="103" weight="2" />
+      <edge source="culture" target="perspective" id="104" weight="2" />
+      <edge source="culture" target="individual" id="105" weight="2" />
+      <edge source="empirical data" target="personal" id="106" weight="2" />
+      <edge source="empirical data" target="truth" id="107" weight="6" />
+      <edge source="empirical data" target="theory" id="108" weight="2" />
+      <edge source="empirical data" target="perspective" id="109" weight="4" />
+      <edge source="empirical data" target="macro-micro" id="110" weight="4" />
+      <edge source="empirical data" target="development" id="111" weight="2" />
+      <edge source="empirical data" target="community" id="112" weight="2" />
+      <edge source="empirical data" target="race-ethnicity" id="113" weight="2" />
+      <edge source="macro-micro" target="community" id="114" weight="6" />
+      <edge source="macro-micro" target="perspective" id="115" weight="2" />
+      <edge source="macro-micro" target="inequality" id="116" weight="2" />
+      <edge source="macro-micro" target="theory" id="117" weight="2" />
+      <edge source="macro-micro" target="collective" id="118" weight="2" />
+      <edge source="macro-micro" target="power" id="119" weight="2" />
+      <edge source="truth" target="freedom" id="120" weight="2" />
+      <edge source="truth" target="theory" id="121" weight="2" />
+      <edge source="policy" target="perspective" id="122" weight="2" />
+      <edge source="policy" target="inequality" id="123" weight="2" />
+      <edge source="structure" target="community" id="124" weight="2" />
+      <edge source="structure" target="identity" id="125" weight="2" />
+      <edge source="structure" target="theory" id="126" weight="4" />
+      <edge source="structure" target="individual" id="127" weight="2" />
+      <edge source="perspective" target="community" id="128" weight="2" />
+      <edge source="perspective" target="individual" id="129" weight="2" />
+      <edge source="theory" target="identity" id="130" weight="2" />
+      <edge source="theory" target="inequality" id="131" weight="2" />
+      <edge source="theory" target="power" id="132" weight="2" />
+      <edge source="social norms" target="community" id="133" weight="2" />
+      <edge source="social norms" target="gender" id="134" weight="2" />
+      <edge source="social norms" target="inequality" id="135" weight="2" />
+      <edge source="social norms" target="race-ethnicity" id="136" weight="2" />
+      <edge source="community" target="inequality" id="137" weight="4" />
+      <edge source="community" target="identity" id="138" weight="2" />
+      <edge source="community" target="class" id="139" weight="2" />
+      <edge source="community" target="collective" id="140" weight="4" />
+      <edge source="community" target="race-ethnicity" id="141" weight="2" />
+      <edge source="identity" target="freedom" id="142" weight="2" />
+      <edge source="identity" target="power" id="143" weight="2" />
+      <edge source="race-ethnicity" target="inequality" id="144" weight="4" />
+      <edge source="race-ethnicity" target="class" id="145" weight="2" />
+      <edge source="race-ethnicity" target="collective" id="146" weight="2" />
+      <edge source="individual" target="user experience" id="147" weight="2" />
+      <edge source="inequality" target="gender" id="148" weight="2" />
+      <edge source="inequality" target="class" id="149" weight="2" />
+      <edge source="inequality" target="justice" id="150" weight="2" />
+      <edge source="power" target="class" id="151" weight="2" />
+      <edge source="collective" target="class" id="152" weight="2" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,577 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="uuid" attr.type="string"/>
+<graph edgedefault="undirected"><node id="AI">
+  <data key="d0">ZuysvCGddv</data>
+</node>
+<node id="analysis">
+  <data key="d0">zfLP4gy4BA</data>
+</node>
+<node id="context">
+  <data key="d0">kojNKla2jv</data>
+</node>
+<node id="empirical data">
+  <data key="d0">RtJiUdZJi6</data>
+</node>
+<node id="ethics">
+  <data key="d0">KaMS6JqOHq</data>
+</node>
+<node id="optimisation">
+  <data key="d0">acTsAWfdzn</data>
+</node>
+<node id="personal">
+  <data key="d0">FGwAQx51J8</data>
+</node>
+<node id="progress">
+  <data key="d0">uBiRoP3A3s</data>
+</node>
+<node id="social networks">
+  <data key="d0">ndsons1JEx</data>
+</node>
+<node id="change">
+  <data key="d0">QUTNIZIDgY</data>
+</node>
+<node id="community">
+  <data key="d0">bihlMPLDwN</data>
+</node>
+<node id="culture">
+  <data key="d0">fWLVVobTqz</data>
+</node>
+<node id="freedom">
+  <data key="d0">IAg4KBbKRK</data>
+</node>
+<node id="identity">
+  <data key="d0">8JFsJYcFYb</data>
+</node>
+<node id="perspective">
+  <data key="d0">FXe1ucLJSr</data>
+</node>
+<node id="social norms">
+  <data key="d0">WTyHE68aut</data>
+</node>
+<node id="technology">
+  <data key="d0">m3bCphZ8J2</data>
+</node>
+<node id="truth">
+  <data key="d0">YfjJV5hkMD</data>
+</node>
+<node id="knowledge">
+  <data key="d0">WAhTMmxJoA</data>
+</node>
+<node id="gender">
+  <data key="d0">8lkG5LFSea</data>
+</node>
+<node id="inequality">
+  <data key="d0">jWW9gVNZ5Z</data>
+</node>
+<node id="race-ethnicity">
+  <data key="d0">Aq4q5O2VkA</data>
+</node>
+<node id="privacy">
+  <data key="d0">vXCsxVu5lG</data>
+</node>
+<node id="policy">
+  <data key="d0">N7PLUDZOj9</data>
+</node>
+<node id="theory">
+  <data key="d0">WGBnkFwIuN</data>
+</node>
+<node id="macro-micro">
+  <data key="d0">WZuDbuOSgL</data>
+</node>
+<node id="class">
+  <data key="d0">7cbBSKLNtr</data>
+</node>
+<node id="power">
+  <data key="d0">qlYrXp5pWY</data>
+</node>
+<node id="structure">
+  <data key="d0">OruxeroRhC</data>
+</node>
+<node id="development">
+  <data key="d0">SP780kx1IA</data>
+</node>
+<node id="art">
+  <data key="d0">RUzI0YhNuM</data>
+</node>
+<node id="design">
+  <data key="d0">S941vbbT0r</data>
+</node>
+<node id="justice">
+  <data key="d0">eirRfq6JdI</data>
+</node>
+<node id="music">
+  <data key="d0">g3wV1SAlU4</data>
+</node>
+<node id="collective">
+  <data key="d0">d1Lcl1ZtLG</data>
+</node>
+<node id="history">
+  <data key="d0">ARTDRWwDGL</data>
+</node>
+<node id="individual">
+  <data key="d0">xB0NLvIg6i</data>
+</node>
+<node id="user experience">
+  <data key="d0">l5ng7z2jql</data>
+</node>
+<edge source="AI" target="ethics">
+  <data key="d1">14</data>
+</edge>
+<edge source="AI" target="progress">
+  <data key="d1">4</data>
+</edge>
+<edge source="AI" target="change">
+  <data key="d1">6</data>
+</edge>
+<edge source="AI" target="technology">
+  <data key="d1">16</data>
+</edge>
+<edge source="AI" target="knowledge">
+  <data key="d1">6</data>
+</edge>
+<edge source="AI" target="social networks">
+  <data key="d1">4</data>
+</edge>
+<edge source="AI" target="privacy">
+  <data key="d1">2</data>
+</edge>
+<edge source="AI" target="analysis">
+  <data key="d1">6</data>
+</edge>
+<edge source="AI" target="optimisation">
+  <data key="d1">4</data>
+</edge>
+<edge source="AI" target="context">
+  <data key="d1">2</data>
+</edge>
+<edge source="AI" target="culture">
+  <data key="d1">2</data>
+</edge>
+<edge source="AI" target="empirical data">
+  <data key="d1">6</data>
+</edge>
+<edge source="AI" target="macro-micro">
+  <data key="d1">2</data>
+</edge>
+<edge source="AI" target="development">
+  <data key="d1">4</data>
+</edge>
+<edge source="AI" target="truth">
+  <data key="d1">2</data>
+</edge>
+<edge source="AI" target="policy">
+  <data key="d1">2</data>
+</edge>
+<edge source="AI" target="structure">
+  <data key="d1">2</data>
+</edge>
+<edge source="analysis" target="optimisation">
+  <data key="d1">4</data>
+</edge>
+<edge source="analysis" target="context">
+  <data key="d1">6</data>
+</edge>
+<edge source="analysis" target="empirical data">
+  <data key="d1">10</data>
+</edge>
+<edge source="analysis" target="ethics">
+  <data key="d1">4</data>
+</edge>
+<edge source="analysis" target="truth">
+  <data key="d1">4</data>
+</edge>
+<edge source="analysis" target="technology">
+  <data key="d1">6</data>
+</edge>
+<edge source="analysis" target="perspective">
+  <data key="d1">6</data>
+</edge>
+<edge source="analysis" target="theory">
+  <data key="d1">2</data>
+</edge>
+<edge source="analysis" target="culture">
+  <data key="d1">2</data>
+</edge>
+<edge source="analysis" target="macro-micro">
+  <data key="d1">4</data>
+</edge>
+<edge source="analysis" target="social networks">
+  <data key="d1">2</data>
+</edge>
+<edge source="analysis" target="policy">
+  <data key="d1">2</data>
+</edge>
+<edge source="context" target="personal">
+  <data key="d1">2</data>
+</edge>
+<edge source="context" target="empirical data">
+  <data key="d1">6</data>
+</edge>
+<edge source="context" target="social networks">
+  <data key="d1">4</data>
+</edge>
+<edge source="context" target="perspective">
+  <data key="d1">4</data>
+</edge>
+<edge source="context" target="social norms">
+  <data key="d1">2</data>
+</edge>
+<edge source="context" target="community">
+  <data key="d1">4</data>
+</edge>
+<edge source="context" target="identity">
+  <data key="d1">2</data>
+</edge>
+<edge source="context" target="theory">
+  <data key="d1">4</data>
+</edge>
+<edge source="context" target="change">
+  <data key="d1">2</data>
+</edge>
+<edge source="context" target="macro-micro">
+  <data key="d1">2</data>
+</edge>
+<edge source="context" target="race-ethnicity">
+  <data key="d1">2</data>
+</edge>
+<edge source="context" target="culture">
+  <data key="d1">2</data>
+</edge>
+<edge source="context" target="individual">
+  <data key="d1">2</data>
+</edge>
+<edge source="context" target="truth">
+  <data key="d1">2</data>
+</edge>
+<edge source="empirical data" target="personal">
+  <data key="d1">2</data>
+</edge>
+<edge source="empirical data" target="ethics">
+  <data key="d1">2</data>
+</edge>
+<edge source="empirical data" target="truth">
+  <data key="d1">6</data>
+</edge>
+<edge source="empirical data" target="technology">
+  <data key="d1">6</data>
+</edge>
+<edge source="empirical data" target="theory">
+  <data key="d1">2</data>
+</edge>
+<edge source="empirical data" target="knowledge">
+  <data key="d1">2</data>
+</edge>
+<edge source="empirical data" target="perspective">
+  <data key="d1">4</data>
+</edge>
+<edge source="empirical data" target="macro-micro">
+  <data key="d1">4</data>
+</edge>
+<edge source="empirical data" target="development">
+  <data key="d1">2</data>
+</edge>
+<edge source="empirical data" target="social networks">
+  <data key="d1">4</data>
+</edge>
+<edge source="empirical data" target="progress">
+  <data key="d1">2</data>
+</edge>
+<edge source="empirical data" target="community">
+  <data key="d1">2</data>
+</edge>
+<edge source="empirical data" target="optimisation">
+  <data key="d1">2</data>
+</edge>
+<edge source="empirical data" target="race-ethnicity">
+  <data key="d1">2</data>
+</edge>
+<edge source="ethics" target="change">
+  <data key="d1">4</data>
+</edge>
+<edge source="ethics" target="technology">
+  <data key="d1">4</data>
+</edge>
+<edge source="ethics" target="social norms">
+  <data key="d1">2</data>
+</edge>
+<edge source="ethics" target="knowledge">
+  <data key="d1">4</data>
+</edge>
+<edge source="ethics" target="policy">
+  <data key="d1">4</data>
+</edge>
+<edge source="ethics" target="theory">
+  <data key="d1">2</data>
+</edge>
+<edge source="ethics" target="development">
+  <data key="d1">2</data>
+</edge>
+<edge source="ethics" target="truth">
+  <data key="d1">2</data>
+</edge>
+<edge source="ethics" target="inequality">
+  <data key="d1">4</data>
+</edge>
+<edge source="ethics" target="power">
+  <data key="d1">2</data>
+</edge>
+<edge source="ethics" target="justice">
+  <data key="d1">2</data>
+</edge>
+<edge source="ethics" target="community">
+  <data key="d1">2</data>
+</edge>
+<edge source="ethics" target="structure">
+  <data key="d1">2</data>
+</edge>
+<edge source="personal" target="social networks">
+  <data key="d1">2</data>
+</edge>
+<edge source="progress" target="change">
+  <data key="d1">2</data>
+</edge>
+<edge source="progress" target="inequality">
+  <data key="d1">2</data>
+</edge>
+<edge source="progress" target="social norms">
+  <data key="d1">2</data>
+</edge>
+<edge source="progress" target="truth">
+  <data key="d1">2</data>
+</edge>
+<edge source="progress" target="development">
+  <data key="d1">2</data>
+</edge>
+<edge source="social networks" target="culture">
+  <data key="d1">2</data>
+</edge>
+<edge source="social networks" target="technology">
+  <data key="d1">4</data>
+</edge>
+<edge source="social networks" target="community">
+  <data key="d1">4</data>
+</edge>
+<edge source="social networks" target="structure">
+  <data key="d1">4</data>
+</edge>
+<edge source="social networks" target="truth">
+  <data key="d1">2</data>
+</edge>
+<edge source="social networks" target="collective">
+  <data key="d1">2</data>
+</edge>
+<edge source="social networks" target="macro-micro">
+  <data key="d1">2</data>
+</edge>
+<edge source="change" target="culture">
+  <data key="d1">2</data>
+</edge>
+<edge source="change" target="inequality">
+  <data key="d1">2</data>
+</edge>
+<edge source="change" target="community">
+  <data key="d1">8</data>
+</edge>
+<edge source="change" target="perspective">
+  <data key="d1">2</data>
+</edge>
+<edge source="change" target="macro-micro">
+  <data key="d1">6</data>
+</edge>
+<edge source="change" target="class">
+  <data key="d1">4</data>
+</edge>
+<edge source="change" target="knowledge">
+  <data key="d1">2</data>
+</edge>
+<edge source="change" target="race-ethnicity">
+  <data key="d1">2</data>
+</edge>
+<edge source="change" target="development">
+  <data key="d1">2</data>
+</edge>
+<edge source="change" target="policy">
+  <data key="d1">2</data>
+</edge>
+<edge source="community" target="culture">
+  <data key="d1">4</data>
+</edge>
+<edge source="community" target="social norms">
+  <data key="d1">2</data>
+</edge>
+<edge source="community" target="inequality">
+  <data key="d1">4</data>
+</edge>
+<edge source="community" target="perspective">
+  <data key="d1">2</data>
+</edge>
+<edge source="community" target="macro-micro">
+  <data key="d1">6</data>
+</edge>
+<edge source="community" target="structure">
+  <data key="d1">2</data>
+</edge>
+<edge source="community" target="identity">
+  <data key="d1">2</data>
+</edge>
+<edge source="community" target="class">
+  <data key="d1">2</data>
+</edge>
+<edge source="community" target="collective">
+  <data key="d1">4</data>
+</edge>
+<edge source="community" target="race-ethnicity">
+  <data key="d1">2</data>
+</edge>
+<edge source="culture" target="social norms">
+  <data key="d1">2</data>
+</edge>
+<edge source="culture" target="inequality">
+  <data key="d1">2</data>
+</edge>
+<edge source="culture" target="perspective">
+  <data key="d1">2</data>
+</edge>
+<edge source="culture" target="individual">
+  <data key="d1">2</data>
+</edge>
+<edge source="freedom" target="truth">
+  <data key="d1">2</data>
+</edge>
+<edge source="freedom" target="identity">
+  <data key="d1">2</data>
+</edge>
+<edge source="freedom" target="knowledge">
+  <data key="d1">2</data>
+</edge>
+<edge source="freedom" target="technology">
+  <data key="d1">2</data>
+</edge>
+<edge source="identity" target="theory">
+  <data key="d1">2</data>
+</edge>
+<edge source="identity" target="power">
+  <data key="d1">2</data>
+</edge>
+<edge source="identity" target="structure">
+  <data key="d1">2</data>
+</edge>
+<edge source="identity" target="technology">
+  <data key="d1">2</data>
+</edge>
+<edge source="identity" target="knowledge">
+  <data key="d1">2</data>
+</edge>
+<edge source="perspective" target="knowledge">
+  <data key="d1">2</data>
+</edge>
+<edge source="perspective" target="policy">
+  <data key="d1">2</data>
+</edge>
+<edge source="perspective" target="macro-micro">
+  <data key="d1">2</data>
+</edge>
+<edge source="perspective" target="individual">
+  <data key="d1">2</data>
+</edge>
+<edge source="social norms" target="gender">
+  <data key="d1">2</data>
+</edge>
+<edge source="social norms" target="inequality">
+  <data key="d1">2</data>
+</edge>
+<edge source="social norms" target="race-ethnicity">
+  <data key="d1">2</data>
+</edge>
+<edge source="technology" target="knowledge">
+  <data key="d1">4</data>
+</edge>
+<edge source="technology" target="privacy">
+  <data key="d1">2</data>
+</edge>
+<edge source="technology" target="power">
+  <data key="d1">2</data>
+</edge>
+<edge source="technology" target="structure">
+  <data key="d1">2</data>
+</edge>
+<edge source="technology" target="macro-micro">
+  <data key="d1">2</data>
+</edge>
+<edge source="technology" target="development">
+  <data key="d1">2</data>
+</edge>
+<edge source="technology" target="truth">
+  <data key="d1">2</data>
+</edge>
+<edge source="truth" target="knowledge">
+  <data key="d1">4</data>
+</edge>
+<edge source="truth" target="theory">
+  <data key="d1">2</data>
+</edge>
+<edge source="knowledge" target="theory">
+  <data key="d1">8</data>
+</edge>
+<edge source="knowledge" target="structure">
+  <data key="d1">2</data>
+</edge>
+<edge source="gender" target="inequality">
+  <data key="d1">2</data>
+</edge>
+<edge source="inequality" target="race-ethnicity">
+  <data key="d1">4</data>
+</edge>
+<edge source="inequality" target="theory">
+  <data key="d1">2</data>
+</edge>
+<edge source="inequality" target="macro-micro">
+  <data key="d1">2</data>
+</edge>
+<edge source="inequality" target="class">
+  <data key="d1">2</data>
+</edge>
+<edge source="inequality" target="policy">
+  <data key="d1">2</data>
+</edge>
+<edge source="inequality" target="justice">
+  <data key="d1">2</data>
+</edge>
+<edge source="race-ethnicity" target="class">
+  <data key="d1">2</data>
+</edge>
+<edge source="race-ethnicity" target="collective">
+  <data key="d1">2</data>
+</edge>
+<edge source="privacy" target="policy">
+  <data key="d1">2</data>
+</edge>
+<edge source="theory" target="power">
+  <data key="d1">2</data>
+</edge>
+<edge source="theory" target="structure">
+  <data key="d1">4</data>
+</edge>
+<edge source="theory" target="macro-micro">
+  <data key="d1">2</data>
+</edge>
+<edge source="macro-micro" target="collective">
+  <data key="d1">2</data>
+</edge>
+<edge source="macro-micro" target="power">
+  <data key="d1">2</data>
+</edge>
+<edge source="class" target="power">
+  <data key="d1">2</data>
+</edge>
+<edge source="class" target="collective">
+  <data key="d1">2</data>
+</edge>
+<edge source="structure" target="individual">
+  <data key="d1">2</data>
+</edge>
+<edge source="individual" target="user experience">
+  <data key="d1">2</data>
+</edge>
+</graph></graphml>
