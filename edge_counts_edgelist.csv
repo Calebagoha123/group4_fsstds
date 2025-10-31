@@ -1,0 +1,154 @@
+source,target,weight
+AI,analysis,3
+AI,change,3
+AI,context,1
+AI,culture,1
+AI,development,2
+AI,empirical data,3
+AI,ethics,7
+AI,knowledge,3
+AI,macro-micro,1
+AI,optimisation,2
+AI,policy,1
+AI,privacy,1
+AI,progress,2
+AI,social networks,2
+AI,structure,1
+AI,technology,8
+AI,truth,1
+analysis,context,3
+analysis,culture,1
+analysis,empirical data,5
+analysis,ethics,2
+analysis,macro-micro,2
+analysis,optimisation,2
+analysis,perspective,3
+analysis,policy,1
+analysis,social networks,1
+analysis,technology,3
+analysis,theory,1
+analysis,truth,2
+change,class,2
+change,community,4
+change,context,1
+change,culture,1
+change,development,1
+change,ethics,2
+change,inequality,1
+change,knowledge,1
+change,macro-micro,3
+change,perspective,1
+change,policy,1
+change,progress,1
+change,race-ethnicity,1
+class,collective,1
+class,community,1
+class,inequality,1
+class,power,1
+class,race-ethnicity,1
+collective,community,2
+collective,macro-micro,1
+collective,race-ethnicity,1
+collective,social networks,1
+community,context,2
+community,culture,2
+community,empirical data,1
+community,ethics,1
+community,identity,1
+community,inequality,2
+community,macro-micro,3
+community,perspective,1
+community,race-ethnicity,1
+community,social networks,2
+community,social norms,1
+community,structure,1
+context,culture,1
+context,empirical data,3
+context,identity,1
+context,individual,1
+context,macro-micro,1
+context,personal,1
+context,perspective,2
+context,race-ethnicity,1
+context,social networks,2
+context,social norms,1
+context,theory,2
+context,truth,1
+culture,individual,1
+culture,inequality,1
+culture,perspective,1
+culture,social networks,1
+culture,social norms,1
+development,empirical data,1
+development,ethics,1
+development,progress,1
+development,technology,1
+empirical data,ethics,1
+empirical data,knowledge,1
+empirical data,macro-micro,2
+empirical data,optimisation,1
+empirical data,personal,1
+empirical data,perspective,2
+empirical data,progress,1
+empirical data,race-ethnicity,1
+empirical data,social networks,2
+empirical data,technology,3
+empirical data,theory,1
+empirical data,truth,3
+ethics,inequality,2
+ethics,justice,1
+ethics,knowledge,2
+ethics,policy,2
+ethics,power,1
+ethics,social norms,1
+ethics,structure,1
+ethics,technology,2
+ethics,theory,1
+ethics,truth,1
+freedom,identity,1
+freedom,knowledge,1
+freedom,technology,1
+freedom,truth,1
+gender,inequality,1
+gender,social norms,1
+identity,knowledge,1
+identity,power,1
+identity,structure,1
+identity,technology,1
+identity,theory,1
+individual,perspective,1
+individual,structure,1
+individual,user experience,1
+inequality,justice,1
+inequality,macro-micro,1
+inequality,policy,1
+inequality,progress,1
+inequality,race-ethnicity,2
+inequality,social norms,1
+inequality,theory,1
+knowledge,perspective,1
+knowledge,structure,1
+knowledge,technology,2
+knowledge,theory,4
+knowledge,truth,2
+macro-micro,perspective,1
+macro-micro,power,1
+macro-micro,social networks,1
+macro-micro,technology,1
+macro-micro,theory,1
+personal,social networks,1
+perspective,policy,1
+policy,privacy,1
+power,technology,1
+power,theory,1
+privacy,technology,1
+progress,social norms,1
+progress,truth,1
+race-ethnicity,social norms,1
+social networks,structure,2
+social networks,technology,2
+social networks,truth,1
+structure,technology,1
+structure,theory,2
+technology,truth,1
+theory,truth,1
