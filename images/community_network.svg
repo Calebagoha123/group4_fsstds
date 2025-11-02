@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1846.2246"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-821.460205 -874.613098 1846.224609 1709.683838"
+     height="1709.6838" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="0.35714287"
+              d="M -169.834259,162.184540 L -0.723349,0.694147"
+              class="id_AI id_analysis" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.35714287"
+              d="M -170.672073,161.881760 L -225.392563,-312.521271"
+              class="id_AI id_change" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -169.674850,162.405090 L 367.090393,-123.470161"
+              class="id_AI id_context" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -170.000778,162.044464 L 294.033966,-530.376526"
+              class="id_AI id_culture" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M -171.426971,163.369125 L -428.934601,309.657806"
+              class="id_AI id_development" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.35714287"
+              d="M -169.588440,162.628281 L 148.773697,81.520248"
+              class="id_AI id_empirical_data" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.87142855"
+              d="M -171.501923,162.546478 L -350.600891,100.214455"
+              class="id_AI id_ethics" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.35714287"
+              d="M -169.992538,163.700302 L 61.494720,501.799744"
+              class="id_AI id_knowledge" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -170.186859,161.946381 L -15.609274,-225.424957"
+              class="id_AI id_macro-micro" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M -170.450928,161.880859 L -152.304108,-7.469983"
+              class="id_AI id_optimisation" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -171.528320,162.635437 L -610.880310,54.147430"
+              class="id_AI id_policy" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -171.525131,163.127472 L -690.655151,298.485046"
+              class="id_AI id_privacy" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M -171.250092,162.153854 L -511.327545,-192.022110"
+              class="id_AI id_progress" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M -169.562790,162.772202 L 400.250214,103.790741"
+              class="id_AI id_social_networks" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -169.633713,163.258133 L 459.768829,424.188263"
+              class="id_AI id_structure" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -170.188324,163.804535 L -105.078178,327.722595"
+              class="id_AI id_technology" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -169.637161,163.266342 L 145.346817,297.147705"
+              class="id_AI id_truth" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.35714287"
+              d="M 0.947550,-0.315684 L 367.025330,-123.621033"
+              class="id_analysis id_context" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 0.484846,-0.871002 L 294.105682,-530.332703"
+              class="id_analysis id_culture" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.6142857"
+              d="M 0.878766,0.480528 L 148.863831,80.796364"
+              class="id_analysis id_empirical_data" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M -0.962062,0.276829 L -350.583405,99.612457"
+              class="id_analysis id_ethics" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M -0.067304,-0.994219 L -15.171482,-225.356003"
+              class="id_analysis id_macro-micro" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M -0.998591,-0.052028 L -151.199097,-8.408739"
+              class="id_analysis id_optimisation" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.35714287"
+              d="M 0.642339,-0.762784 L 208.116989,-248.226822"
+              class="id_analysis id_perspective" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -0.996277,0.091283 L -610.854980,53.819942"
+              class="id_analysis id_policy" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 0.968062,0.253711 L 400.276703,103.437592"
+              class="id_analysis id_social_networks" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.35714287"
+              d="M -0.303704,0.956332 L -104.405457,327.699158"
+              class="id_analysis id_technology" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 0.447084,0.897947 L 253.102539,506.201050"
+              class="id_analysis id_theory" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M 0.441035,0.900946 L 145.825958,296.641449"
+              class="id_analysis id_truth" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M -225.592346,-314.511047 L -248.851013,-586.561218"
+              class="id_change id_class" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.4857143"
+              d="M -224.683807,-314.082214 L -1.337895,-468.035339"
+              class="id_change id_community" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -224.554581,-313.210388 L 367.020447,-124.244522"
+              class="id_change id_context" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -224.584702,-313.900787 L 293.668213,-530.821106"
+              class="id_change id_culture" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -225.818451,-312.564362 L -429.492767,309.201447"
+              class="id_change id_development" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M -225.798782,-312.558136 L -351.253693,98.929230"
+              class="id_change id_ethics" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -226.290405,-314.136383 L -497.375183,-529.311951"
+              class="id_change id_inequality" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -225.174835,-312.571503 L 61.727341,501.681702"
+              class="id_change id_knowledge" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.35714287"
+              d="M -224.583374,-313.131744 L -16.162430,-226.736664"
+              class="id_change id_macro-micro" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -224.518021,-313.367706 L 207.770325,-249.140091"
+              class="id_change id_perspective" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -226.231781,-312.825531 L -611.126526,53.218563"
+              class="id_change id_policy" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -226.428635,-313.126251 L -511.098663,-193.131851"
+              class="id_change id_progress" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -225.536285,-314.514252 L -239.112213,-780.326843"
+              class="id_change id_race-ethnicity" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -248.041000,-588.003235 L -16.586237,-703.231567"
+              class="id_class id_collective" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -248.034271,-587.125671 L -1.416477,-469.034760"
+              class="id_class id_community" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -249.910492,-587.332275 L -497.184113,-530.158936"
+              class="id_class id_inequality" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -248.917725,-586.557739 L -226.162094,644.304321"
+              class="id_class id_power" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -248.885712,-588.556274 L -239.191833,-780.327698"
+              class="id_class id_race-ethnicity" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M -15.626613,-702.679321 L -0.578973,-469.600800"
+              class="id_collective id_community" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -15.690091,-702.677246 L -15.239598,-227.353745"
+              class="id_collective id_macro-micro" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -16.635632,-704.005493 L -238.196747,-780.998169"
+              class="id_collective id_race-ethnicity" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -15.232195,-702.788757 L 400.786072,102.799263"
+              class="id_collective id_social_networks" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M 0.215775,-467.919769 L 367.242706,-124.623344"
+              class="id_community id_context" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M 0.463683,-468.810394 L 293.612427,-530.999695"
+              class="id_community id_culture" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -0.250954,-467.638245 L 149.479141,80.308731"
+              class="id_community id_empirical_data" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -1.039937,-467.752014 L -351.019928,99.034904"
+              class="id_community id_ethics" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -0.329793,-467.620087 L 232.345963,770.083069"
+              class="id_community id_identity" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M -1.507038,-468.725189 L -497.165924,-529.811340"
+              class="id_community id_inequality" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.35714287"
+              d="M -0.575216,-467.604706 L -15.177981,-227.351898"
+              class="id_community id_macro-micro" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 0.175319,-467.878937 L 208.069595,-249.717072"
+              class="id_community id_perspective" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -1.121171,-469.397858 L -238.534714,-780.531433"
+              class="id_community id_race-ethnicity" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M 0.060024,-467.784424 L 400.670319,102.869331"
+              class="id_community id_social_networks" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -1.327783,-469.184814 L -481.795593,-812.997314"
+              class="id_community id_social_norms" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -0.055736,-467.714355 L 460.233795,423.682709"
+              class="id_community id_structure" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 367.795685,-124.924393 L 294.768005,-530.223083"
+              class="id_context id_culture" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.35714287"
+              d="M 367.244537,-123.255196 L 150.471237,80.588326"
+              class="id_context id_empirical_data" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 367.823395,-122.951500 L 232.680344,770.077087"
+              class="id_context id_identity" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 368.843750,-124.431984 L 786.670471,-360.395813"
+              class="id_context id_individual" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 367.006927,-124.198425 L -14.272556,-226.095551"
+              class="id_context id_macro-micro" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 368.852325,-123.463997 L 639.799561,23.282406"
+              class="id_context id_personal" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M 367.186615,-124.557930 L 209.545883,-248.375443"
+              class="id_context id_perspective" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 367.294556,-124.674881 L -238.462891,-780.591797"
+              class="id_context id_race-ethnicity" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M 368.117645,-122.950752 L 401.100281,102.698296"
+              class="id_context id_social_networks" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 367.196259,-124.570030 L -481.832062,-812.949463"
+              class="id_context id_social_norms" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M 367.794617,-122.956284 L 253.728180,506.111511"
+              class="id_context id_theory" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 367.507477,-123.055214 L 146.732681,296.653839"
+              class="id_context id_truth" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 295.535828,-530.880676 L 786.596008,-361.214111"
+              class="id_culture id_individual" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 293.590668,-531.205627 L -497.158417,-529.935242"
+              class="id_culture id_inequality" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 294.299683,-530.250488 L 209.050430,-249.949860"
+              class="id_culture id_perspective" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 294.756348,-530.221008 L 401.079224,102.701599"
+              class="id_culture id_social_networks" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 293.650787,-531.548706 L -481.668945,-813.237732"
+              class="id_culture id_social_norms" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -428.873993,309.784454 L 148.812637,81.640686"
+              class="id_development id_empirical_data" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -429.455261,309.214569 L -351.894135,100.822960"
+              class="id_development id_ethics" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -429.965424,309.164856 L -511.858795,-191.756531"
+              class="id_development id_progress" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -428.805695,310.208588 L -105.707405,328.595154"
+              class="id_development id_technology" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 148.743423,81.310471 L -350.546021,99.848663"
+              class="id_empirical_data id_ethics" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 149.539001,82.252396 L 62.263401,501.645844"
+              class="id_empirical_data id_knowledge" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M 149.270111,80.392105 L -14.766026,-225.472473"
+              class="id_empirical_data id_macro-micro" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 148.784180,80.988480 L -151.238998,-8.179403"
+              class="id_empirical_data id_optimisation" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 150.735947,81.157013 L 639.685669,23.875006"
+              class="id_empirical_data id_personal" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M 149.918640,80.288963 L 208.583557,-248.008728"
+              class="id_empirical_data id_perspective" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 148.818817,80.890800 L -511.096222,-192.360855"
+              class="id_empirical_data id_progress" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 149.331741,80.361732 L -238.730347,-780.414795"
+              class="id_empirical_data id_race-ethnicity" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M 150.738785,81.362137 L 400.248840,103.599014"
+              class="id_empirical_data id_social_networks" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.35714287"
+              d="M 149.025742,81.970436 L -103.992020,327.954895"
+              class="id_empirical_data id_technology" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 149.979584,82.244919 L 253.312912,506.123901"
+              class="id_empirical_data id_theory" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.35714287"
+              d="M 149.726669,82.273239 L 146.283203,296.539001"
+              class="id_empirical_data id_truth" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M -351.772034,98.911804 L -497.931702,-528.959717"
+              class="id_ethics id_inequality" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -352.200378,99.130173 L -782.789551,-397.550995"
+              class="id_ethics id_justice" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M -350.828857,100.583397 L 61.343212,501.927246"
+              class="id_ethics id_knowledge" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M -352.530090,99.711830 L -610.866394,54.081642"
+              class="id_ethics id_policy" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -351.321259,100.860336 L -226.367691,644.329590"
+              class="id_ethics id_power" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -351.687347,98.895905 L -482.466797,-812.589355"
+              class="id_ethics id_social_norms" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -350.616760,100.256950 L 459.764038,424.200043"
+              class="id_ethics id_structure" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M -350.811890,100.565514 L -105.442467,327.972229"
+              class="id_ethics id_technology" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -350.715698,100.444077 L 252.720123,506.537140"
+              class="id_ethics id_theory" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -350.615906,100.254784 L 145.337708,297.169861"
+              class="id_ethics id_truth" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 47.511463,821.011292 L 231.565277,771.326477"
+              class="id_freedom id_identity" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 46.594650,820.273071 L 62.011036,503.623688"
+              class="id_freedom id_knowledge" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 46.252502,820.315979 L -104.415504,329.607941"
+              class="id_freedom id_technology" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 46.733063,820.289551 L 146.080093,298.521240"
+              class="id_freedom id_truth" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -663.910217,-859.920654 L -498.607269,-530.827271"
+              class="id_gender id_inequality" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -663.391235,-860.562744 L -483.576660,-813.830750"
+              class="id_gender id_social_norms" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 231.994629,770.221680 L 62.595745,503.469055"
+              class="id_identity id_knowledge" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 231.566315,770.801453 L -225.179214,645.568542"
+              class="id_identity id_power" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 233.080673,770.230652 L 460.142639,425.406433"
+              class="id_identity id_structure" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 231.924484,770.270569 L -104.102791,329.447266"
+              class="id_identity id_technology" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 232.610092,770.069031 L 253.470383,508.092316"
+              class="id_identity id_theory" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 786.559387,-360.697723 L 209.741287,-249.182953"
+              class="id_individual id_perspective" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 787.156982,-359.964294 L 461.076782,423.647980"
+              class="id_individual id_structure" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 788.476807,-361.240631 L 932.440186,-415.571442"
+              class="id_individual id_user_experience" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -499.066437,-529.514709 L -782.536560,-398.725525"
+              class="id_inequality id_justice" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -497.311798,-529.401428 L -16.085262,-226.885956"
+              class="id_inequality id_macro-micro" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -498.349548,-528.952087 L -611.659973,52.926140"
+              class="id_inequality id_policy" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -498.199493,-528.934509 L -511.979065,-193.742584"
+              class="id_inequality id_progress" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M -497.440826,-530.630127 L -239.858932,-780.629944"
+              class="id_inequality id_race-ethnicity" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -498.103668,-530.932129 L -482.663574,-812.580750"
+              class="id_inequality id_social_norms" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -497.571533,-529.124023 L 252.962860,506.285797"
+              class="id_inequality id_theory" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 62.251228,501.643402 L 208.567902,-248.011658"
+              class="id_knowledge id_perspective" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 63.041031,502.432709 L 459.711243,424.763397"
+              class="id_knowledge id_structure" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M 61.367664,501.902985 L -104.017021,329.373871"
+              class="id_knowledge id_technology" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.4857143"
+              d="M 63.059395,502.648224 L 252.550034,507.072113"
+              class="id_knowledge id_theory" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M 62.439491,501.699829 L 145.887314,298.463928"
+              class="id_knowledge id_truth" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -14.243719,-226.454300 L 207.764526,-248.892578"
+              class="id_macro-micro id_perspective" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -15.473823,-225.381790 L -225.908447,644.332214"
+              class="id_macro-micro id_power" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -14.454903,-225.732666 L 400.461151,103.066704"
+              class="id_macro-micro id_social_networks" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -15.397801,-225.366486 L -104.549873,327.664734"
+              class="id_macro-micro id_technology" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -14.894557,-225.414810 L 253.205658,506.156525"
+              class="id_macro-micro id_theory" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 639.730347,24.075296 L 402.193451,103.371132"
+              class="id_personal id_social_networks" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 207.821335,-248.646851 L -610.913025,53.561424"
+              class="id_perspective id_policy" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -612.160950,54.858505 L -691.312988,297.786530"
+              class="id_policy id_privacy" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -225.785553,644.370422 L -105.067093,329.585663"
+              class="id_power id_technology" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -225.182709,645.027283 L 252.588852,507.372314"
+              class="id_power id_theory" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -690.624084,298.788239 L -105.707726,328.601074"
+              class="id_privacy id_technology" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -511.972809,-193.742310 L -482.656158,-812.580322"
+              class="id_progress id_social_norms" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -511.218140,-192.146103 L 145.465134,296.941559"
+              class="id_progress id_truth" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -240.132675,-781.457764 L -481.617493,-813.447876"
+              class="id_race-ethnicity id_social_norms" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M 401.427063,104.671051 L 460.510437,423.587952"
+              class="id_social_networks id_structure" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M 400.331146,104.094063 L -103.795273,328.245697"
+              class="id_social_networks id_technology" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 400.448853,104.292999 L 147.063202,296.933655"
+              class="id_social_networks id_truth" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 459.706696,424.403961 L -103.723106,328.819244"
+              class="id_structure id_technology" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.22857143"
+              d="M 459.763611,424.941345 L 254.478745,506.725342"
+              class="id_structure id_theory" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -103.716621,328.528961 L 145.274734,297.661896"
+              class="id_technology id_truth" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 253.094055,506.205322 L 146.722839,298.429016"
+              class="id_theory id_truth" stroke-opacity="1.0" stroke="#000000"/>
+    </g>
+    <g id="nodes">
+        <circle fill="#ff743e" r="0.84000003" fill-opacity="0.1" class="id_AI"
+                cx="-170.55748" cy="162.87517"/>
+        <circle fill="none" r="0.92" cx="-170.55748" cy="162.87517"
+                stroke="#ff743e" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#68ad36" r="0.84000003" fill-opacity="0.1"
+                class="id_analysis" cx="-1.3497067E-4" cy="0.003522847"/>
+        <circle fill="none" r="0.92" cx="-1.3497067E-4" cy="0.003522847"
+                stroke="#68ad36" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#d27cce" r="0.84000003" fill-opacity="0.1"
+                class="id_change" cx="-225.50716" cy="-313.51468"/>
+        <circle fill="none" r="0.92" cx="-225.50716" cy="-313.51468"
+                stroke="#d27cce" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#68ad36" r="0.84000003" fill-opacity="0.1"
+                class="id_context" cx="367.97302" cy="-123.94024"/>
+        <circle fill="none" r="0.92" cx="367.97302" cy="-123.94024"
+                stroke="#68ad36" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#d27cce" r="0.84000003" fill-opacity="0.1"
+                class="id_culture" cx="294.59067" cy="-531.2072"/>
+        <circle fill="none" r="0.92" cx="294.59067" cy="-531.2072"
+                stroke="#d27cce" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#ff743e" r="0.84000003" fill-opacity="0.1"
+                class="id_development" cx="-429.80408" cy="310.15176"/>
+        <circle fill="none" r="0.92" cx="-429.80408" cy="310.15176"
+                stroke="#ff743e" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#68ad36" r="0.84000003" fill-opacity="0.1"
+                class="id_empirical_data" cx="149.74274" cy="81.27337"/>
+        <circle fill="none" r="0.92" cx="149.74274" cy="81.27337"
+                stroke="#68ad36" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#ff743e" r="0.84000003" fill-opacity="0.1"
+                class="id_ethics" cx="-351.54532" cy="99.885765"/>
+        <circle fill="none" r="0.92" cx="-351.54532" cy="99.885765"
+                stroke="#ff743e" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#00b7da" r="0.84000003" fill-opacity="0.1"
+                class="id_knowledge" cx="62.059666" cy="502.62488"/>
+        <circle fill="none" r="0.92" cx="62.059666" cy="502.62488"
+                stroke="#00b7da" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#d27cce" r="0.84000003" fill-opacity="0.1"
+                class="id_macro-micro" cx="-15.23865" cy="-226.35374"/>
+        <circle fill="none" r="0.92" cx="-15.23865" cy="-226.35374"
+                stroke="#d27cce" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#68ad36" r="0.84000003" fill-opacity="0.1"
+                class="id_optimisation" cx="-152.19756" cy="-8.464291"/>
+        <circle fill="none" r="0.92" cx="-152.19756" cy="-8.464291"
+                stroke="#68ad36" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#ff743e" r="0.84000003" fill-opacity="0.1"
+                class="id_policy" cx="-611.85114" cy="53.907703"/>
+        <circle fill="none" r="0.92" cx="-611.85114" cy="53.907703"
+                stroke="#ff743e" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#ff743e" r="0.84000003" fill-opacity="0.1"
+                class="id_privacy" cx="-691.6228" cy="298.73734"/>
+        <circle fill="none" r="0.92" cx="-691.6228" cy="298.73734"
+                stroke="#ff743e" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#ff743e" r="0.84000003" fill-opacity="0.1"
+                class="id_progress" cx="-512.02014" cy="-192.74342"/>
+        <circle fill="none" r="0.92" cx="-512.02014" cy="-192.74342"
+                stroke="#ff743e" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#68ad36" r="0.84000003" fill-opacity="0.1"
+                class="id_social_networks" cx="401.2449" cy="103.68778"/>
+        <circle fill="none" r="0.92" cx="401.2449" cy="103.68778"
+                stroke="#68ad36" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#00b7da" r="0.84000003" fill-opacity="0.1"
+                class="id_structure" cx="460.6926" cy="424.57123"/>
+        <circle fill="none" r="0.92" cx="460.6926" cy="424.57123"
+                stroke="#00b7da" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#ff743e" r="0.84000003" fill-opacity="0.1"
+                class="id_technology" cx="-104.70902" cy="328.65198"/>
+        <circle fill="none" r="0.92" cx="-104.70902" cy="328.65198"
+                stroke="#ff743e" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#68ad36" r="0.84000003" fill-opacity="0.1"
+                class="id_truth" cx="146.26714" cy="297.53888"/>
+        <circle fill="none" r="0.92" cx="146.26714" cy="297.53888"
+                stroke="#68ad36" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#68ad36" r="0.84000003" fill-opacity="0.1"
+                class="id_perspective" cx="208.75946" cy="-248.99313"/>
+        <circle fill="none" r="0.92" cx="208.75946" cy="-248.99313"
+                stroke="#68ad36" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#00b7da" r="0.84000003" fill-opacity="0.1"
+                class="id_theory" cx="253.54976" cy="507.09546"/>
+        <circle fill="none" r="0.92" cx="253.54976" cy="507.09546"
+                stroke="#00b7da" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#d27cce" r="0.84000003" fill-opacity="0.1"
+                class="id_class" cx="-248.9362" cy="-587.55756"/>
+        <circle fill="none" r="0.92" cx="-248.9362" cy="-587.55756"
+                stroke="#d27cce" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#d27cce" r="0.84000003" fill-opacity="0.1"
+                class="id_community" cx="-0.51454693" cy="-468.60287"/>
+        <circle fill="none" r="0.92" cx="-0.51454693" cy="-468.60287"
+                stroke="#d27cce" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#d27cce" r="0.84000003" fill-opacity="0.1"
+                class="id_inequality" cx="-498.15842" cy="-529.93365"/>
+        <circle fill="none" r="0.92" cx="-498.15842" cy="-529.93365"
+                stroke="#d27cce" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#d27cce" r="0.84000003" fill-opacity="0.1"
+                class="id_race-ethnicity" cx="-239.14134" cy="-781.3264"/>
+        <circle fill="none" r="0.92" cx="-239.14134" cy="-781.3264"
+                stroke="#d27cce" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#d27cce" r="0.84000003" fill-opacity="0.1"
+                class="id_collective" cx="-15.691039" cy="-703.67725"/>
+        <circle fill="none" r="0.92" cx="-15.691039" cy="-703.67725"
+                stroke="#d27cce" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#00b7da" r="0.84000003" fill-opacity="0.1"
+                class="id_power" cx="-226.14362" cy="645.30414"/>
+        <circle fill="none" r="0.92" cx="-226.14362" cy="645.30414"
+                stroke="#00b7da" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#00b7da" r="0.84000003" fill-opacity="0.1"
+                class="id_identity" cx="232.53072" cy="771.06586"/>
+        <circle fill="none" r="0.92" cx="232.53072" cy="771.06586"
+                stroke="#00b7da" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#d27cce" r="0.84000003" fill-opacity="0.1"
+                class="id_social_norms" cx="-482.60883" cy="-813.5792"/>
+        <circle fill="none" r="0.92" cx="-482.60883" cy="-813.5792"
+                stroke="#d27cce" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#68ad36" r="0.84000003" fill-opacity="0.1"
+                class="id_individual" cx="787.5412" cy="-360.88754"/>
+        <circle fill="none" r="0.92" cx="787.5412" cy="-360.88754"
+                stroke="#68ad36" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#68ad36" r="0.84000003" fill-opacity="0.1"
+                class="id_personal" cx="640.6789" cy="23.758648"/>
+        <circle fill="none" r="0.92" cx="640.6789" cy="23.758648"
+                stroke="#68ad36" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#ff743e" r="0.84000003" fill-opacity="0.1"
+                class="id_justice" cx="-783.4446" cy="-398.30658"/>
+        <circle fill="none" r="0.92" cx="-783.4446" cy="-398.30658"
+                stroke="#ff743e" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#00b7da" r="0.84000003" fill-opacity="0.1"
+                class="id_freedom" cx="46.54602" cy="821.2719"/>
+        <circle fill="none" r="0.92" cx="46.54602" cy="821.2719"
+                stroke="#00b7da" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#d27cce" r="0.84000003" fill-opacity="0.1"
+                class="id_gender" cx="-664.3591" cy="-860.8143"/>
+        <circle fill="none" r="0.92" cx="-664.3591" cy="-860.8143"
+                stroke="#d27cce" stroke-opacity="0.1" stroke-width="0.16"/>
+        <circle fill="#68ad36" r="0.84000003" fill-opacity="0.1"
+                class="id_user_experience" cx="933.3758" cy="-415.92453"/>
+        <circle fill="none" r="0.92" cx="933.3758" cy="-415.92453"
+                stroke="#68ad36" stroke-opacity="0.1" stroke-width="0.16"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="-170.55748" y="167.17009" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_AI">
+            AI
+        </text>
+        <text font-size="24" x="-1.3497067E-4" y="5.56114" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_analysis">
+            analysis
+        </text>
+        <text font-size="24" x="-225.50716" y="-307.95706" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_change">
+            change
+        </text>
+        <text font-size="24" x="367.97302" y="-119.671684" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_context">
+            context
+        </text>
+        <text font-size="24" x="294.59067" y="-526.842" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_culture">
+            culture
+        </text>
+        <text font-size="24" x="-429.80408" y="315.63907" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_development">
+            development
+        </text>
+        <text font-size="24" x="149.74274" y="86.76067" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_empirical_data">
+            empirical data
+        </text>
+        <text font-size="24" x="-351.54532" y="104.251" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ethics">
+            ethics
+        </text>
+        <text font-size="24" x="62.059666" y="508.1825" fill="#00b7da"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_knowledge">
+            knowledge
+        </text>
+        <text font-size="24" x="-15.23865" y="-221.98851" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_macro-micro">
+            macro-micro
+        </text>
+        <text font-size="24" x="-152.19756" y="-2.976986" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_optimisation">
+            optimisation
+        </text>
+        <text font-size="24" x="-611.85114" y="59.46532" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_policy">
+            policy
+        </text>
+        <text font-size="24" x="-691.6228" y="304.29495" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_privacy">
+            privacy
+        </text>
+        <text font-size="24" x="-512.02014" y="-188.29909" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_progress">
+            progress
+        </text>
+        <text font-size="24" x="401.2449" y="108.05302" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_social_networks">
+            social networks
+        </text>
+        <text font-size="24" x="460.6926" y="428.83978" fill="#00b7da"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_structure">
+            structure
+        </text>
+        <text font-size="24" x="-104.70902" y="334.2096" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_technology">
+            technology
+        </text>
+        <text font-size="24" x="146.26714" y="301.9041" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_truth">
+            truth
+        </text>
+        <text font-size="24" x="208.75946" y="-243.50583" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_perspective">
+            perspective
+        </text>
+        <text font-size="24" x="253.54976" y="512.6531" fill="#00b7da"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_theory">
+            theory
+        </text>
+        <text font-size="24" x="-248.9362" y="-583.1923" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_class">
+            class
+        </text>
+        <text font-size="24" x="-0.51454693" y="-463.04526" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_community">
+            community
+        </text>
+        <text font-size="24" x="-498.15842" y="-524.37604" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_inequality">
+            inequality
+        </text>
+        <text font-size="24" x="-239.14134" y="-775.7688" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_race-ethnicity">
+            race-ethnicity
+        </text>
+        <text font-size="24" x="-15.691039" y="-699.312" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_collective">
+            collective
+        </text>
+        <text font-size="24" x="-226.14362" y="649.67816" fill="#00b7da"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_power">
+            power
+        </text>
+        <text font-size="24" x="232.53072" y="776.6235" fill="#00b7da"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_identity">
+            identity
+        </text>
+        <text font-size="24" x="-482.60883" y="-809.214" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_social_norms">
+            social norms
+        </text>
+        <text font-size="24" x="787.5412" y="-356.5223" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_individual">
+            individual
+        </text>
+        <text font-size="24" x="640.6789" y="29.245953" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_personal">
+            personal
+        </text>
+        <text font-size="24" x="-783.4446" y="-392.74896" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_justice">
+            justice
+        </text>
+        <text font-size="24" x="46.54602" y="825.7104" fill="#00b7da"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_freedom">
+            freedom
+        </text>
+        <text font-size="24" x="-664.3591" y="-855.25665" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_gender">
+            gender
+        </text>
+        <text font-size="24" x="933.3758" y="-410.43723" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_user_experience">
+            user experience
+        </text>
+    </g>
+</svg>
